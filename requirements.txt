@@ -1,0 +1,26 @@
+langchain
+langchain-groq
+faiss-cpu # for local vector store usage (install faiss-gpu if you have a compatible GPU)           
+tiktoken # for token counting
+langchain-community # for additional integrations
+langchain-openai # for OpenAI integrations
+chromadb # for Chroma vector store usage 
+sentence-transformers # for HuggingFace embeddings 
+pypdf 
+python-dotenv
+pymupdf
+unstructured
+pdfminer
+python-docx
+docx2txt
+pandas
+openpyxl
+jq
+matplotlib
+## Embeddings
+langchain-huggingface
+sentence-transformers
+langchain-experimental
+rank_bm25
+wikipedia
+langgraph
